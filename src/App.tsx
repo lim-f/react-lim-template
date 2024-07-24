@@ -21,7 +21,7 @@ export default function App() {
           <a href='https://github.com/lim-f/react-lim'>React Lim</a>
         </h1>
         <h2>
-           Mark React easier to Use
+           Make React easier to Use
         </h2>
         <div className="counter-container">
           <Counter />
